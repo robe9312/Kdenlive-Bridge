@@ -1,3 +1,4 @@
+# Kdenlive-Bridge
 <p align="center">
   <img src="docs/img/logo.png" alt="Kdenlive Bridge" width="200"/>
 </p>Kdenlive Bridge
